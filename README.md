@@ -22,9 +22,12 @@ https://github.com/johnsonice/Fund_Textmining
 
 ##### Philippines
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~johnsonice/68.embed"></iframe>
+
 ##### China
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~johnsonice/66.embed"></iframe>
+
 ##### United States
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~johnsonice/62.embed"></iframe>
+
 ##### Unkted Kingdom
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~johnsonice/64.embed"></iframe>
